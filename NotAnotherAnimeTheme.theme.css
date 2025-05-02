@@ -31,7 +31,7 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.6);
+  --theme-transparency: rgba(0, 0, 0, 0.7);
 
   /*
     Home Icon Image
@@ -65,9 +65,9 @@
   /*
     Mention colors
   */
-  --mention-color: rgba(250, 166, 26, 0.05);
-  --mention-sider: rgba(250, 166, 26, 1);
-  --mention-hover-color: rgba(250, 166, 26, 0.08);
+  --mention-color: rgba(180, 27, 26, 0.05);
+  --mention-sider: rgba(180, 180, 180, 0.49);
+  --mention-hover-color: rgba(250, 59, 20, 0.08);
 
   /*
     Server category hover color
