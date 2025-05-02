@@ -21,22 +21,22 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://preview.redd.it/ujrbvxc3qd181.png?auto=webp&s=7108c8b0dd60f27ab1b848ecd2ecba27bb51bb72);
+  --theme-background-image: url(https://dthezntil550i.cloudfront.net/8j/latest/8j2301261135146450024382112/1280_960/c1a78867-68e4-4261-aa0f-db09751e0875.png);
 
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(155, 155, 20);
+  --main-theme-color: rgb(153, 64, 64);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.8);
+  --theme-transparency: rgba(0, 0, 0, 0.5);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.ebayimg.com/images/g/Y9YAAOSwIn5mdmqW/s-l1200.jpg);
 
   /*
     Change your friends icon image position
